@@ -1,6 +1,6 @@
 # coolapp
 
-A new Flutter project.
+Learning flutter with fireship.io
 
 ## Getting Started
 
