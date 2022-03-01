@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600140469170",
+    "project_id": "coolapp-5043b",
+    "storage_bucket": "coolapp-5043b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600140469170:android:91a9cb876f30874102caab",
+        "android_client_info": {
+          "package_name": "com.example.coolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600140469170-f9j21g00e3nog91g7bh5dg966k0vdu9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coolapp",
+            "certificate_hash": "9b4c80fdac206ae3cf16bceb1328b2e9af871498"
+          }
+        },
+        {
+          "client_id": "600140469170-fnla28jqvbr4rdrb75ugcg0kkvmap8ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHfS9uDZb7jJoStoFV_4KyvtwnE9YnxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600140469170-fnla28jqvbr4rdrb75ugcg0kkvmap8ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
